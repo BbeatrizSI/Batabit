@@ -1,0 +1,13 @@
+.plans-container--slider {
+  justify-content: center;
+}
+
+.main-currency-table .currency-table--title {
+  margin-left: 120px;
+}
+
+.main-tables-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
